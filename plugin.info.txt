@@ -1,0 +1,7 @@
+base   ffxivdb
+author Rob Garfoot
+email  rob@garfoot.com
+date   2016-12-04
+name   FFXIV Eorzea DB Linker
+desc   Creates tooltip links to Eorzea DB items
+url    http://eu.finalfantasyxiv.com/lodestone/special/fankit/tooltip/
